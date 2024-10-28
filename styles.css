@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    
+}
+
+canvas {
+    display: block;
+}
+
+h1{
+    font-size: 40px; 
+    text-align: center;   
+    color: rgb(209, 76, 14);	
+    border-right: 30px solid red;
+   border-bottom: 30px solid #4c4c4c; 
+   
+}
